@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "539481554111",
+    "firebase_url": "https://teori-informasi.firebaseio.com",
+    "project_id": "teori-informasi",
+    "storage_bucket": "teori-informasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539481554111:android:9188a9eb3f18c70ac75a0a",
+        "android_client_info": {
+          "package_name": "com.example.TeoriInformasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539481554111-74343kgmlk5e1rucsrnn614j190hdeef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.TeoriInformasi",
+            "certificate_hash": "c350dc704d5849690a8f9e4d819f50ef39e9c1eb"
+          }
+        },
+        {
+          "client_id": "539481554111-f108b0c7g8v9p3ae4pk8smlh13k889h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg9qdTjcN7UzHY-bgZbLDcLD8vjNNbekA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539481554111-f108b0c7g8v9p3ae4pk8smlh13k889h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539481554111:android:6a31b202af579a91c75a0a",
+        "android_client_info": {
+          "package_name": "com.example.teoriinformasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539481554111-ral22m7ivdp4tk728l1a1bc4u7nrm2uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teoriinformasi",
+            "certificate_hash": "c350dc704d5849690a8f9e4d819f50ef39e9c1eb"
+          }
+        },
+        {
+          "client_id": "539481554111-f108b0c7g8v9p3ae4pk8smlh13k889h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg9qdTjcN7UzHY-bgZbLDcLD8vjNNbekA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539481554111-f108b0c7g8v9p3ae4pk8smlh13k889h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
